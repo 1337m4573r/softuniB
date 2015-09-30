@@ -1,0 +1,24 @@
+Popular development environments 
+
+Eclipse:
+Eclipse is famous Java Integrated Development Environment (IDE), but the C/C++ IDE and PHP IDE are pretty cool too.
+A man can easily combine language support and other features into any of our default packages.
+The Eclipse Marketplace allows for virtually unlimited customization and extension.
+
+SharpDevelop
+#develop (short for SharpDevelop) is a free IDE for C#, VB.NET and Boo projects on Microsoft's .NET platform.
+It is open-source, and can download both sourcecode and executables from icsharpcode.net.
+
+Xcode
+The Xcode IDE is at the center of the Apple development experience.
+Tightly integrated with the Cocoa and Cocoa Touch frameworks, Xcode is an incredibly productive environment for building amazing apps for Mac, iPhone, and iPad.
+
+Delphi XE8
+Delphi XE8 is the complete software development solution for rapidly designing, coding, and extending "connected" apps across Windows, Mac, iOS, Android and IoT.
+Build industrial strength and Business ready solutions incorporating multiple native client platforms, mobile extensions, smart devices, cloud services, Enterprise and embedded data.
+Create fast native apps for Windows, OS X and mobile from one codebase.
+
+Vim's IDE Mode
+Videm (Vim's IDE Mode) is a C/C++ IDE based on vim. 
+Videm is compatible with VimLite about configuration.
+Vim is text editor but, can do all the major things like the others IDEs (tabs, file trees, greping, syntax highlighting, indentation, completion, "quickfix"ing, etc).

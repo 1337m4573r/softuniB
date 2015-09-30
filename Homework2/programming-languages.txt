@@ -1,0 +1,66 @@
+Most popular programming languages
+
+1. Java 
+Java uses a compiler, and is an object-oriented language.
+Programs written in Java can run on many different computer architectures and operating systems. 
+ Strengths: WORA, popularity
+ Weaknesses: Slower than natively compiled languages 
+
+2. C
+C is a compiled, procedural language.
+C programs must be specifically compiled for computers with different architectures and operating systems.
+It is widely used for system programming, writing other programming languages, and in embedded systems. 
+ Strengths: Speed
+ Weaknesses: Memory management can be difficult to master 
+
+3. C++
+C++ is a compiled, multi-paradigm language.
+It attempts to be backwards-compatible with C and brings object-orientation.
+C++ is used to create a wide array of applications from games to office suites.
+ Strengths: Speed
+ Weaknesses: C++ is older and considered more clumsy than newer object-oriented languages such as Java or C#.
+
+4. PHP
+PHP uses a run-time interpreter, and is a multi-paradigm language.
+PHP is the most popular language used to write web applications.
+ Strengths: Web programming, good documentation 
+ Weaknesses: Inconsistent syntax, too many ways to do the same thing, a history of bizarre security decisions 
+
+5. VB ( or Visual Basic ) Visual Basic is an interpreted, multi-paradigm language.
+Visual Basic is a good language for scripting Windows applications that do not need the power and speed of C#.
+ Strengths: None.
+ Weaknesses: Only runs in Windows 
+
+6. Python 
+Python is an interpreted, multi-paradigm programming language.
+Python is used as the main programming choice of both Google and Ubuntu. 
+ Strengths: Excellent readability and overall philosophy 
+ Weaknesses: None 
+
+7 C# 
+C# is a compiled, object-oriented language.
+It is an open specification, but rarely seen on any non-Windows platform.
+C# was conceived as Microsoft's premium language in its .NET Framework.
+It is very similar to Java in both syntax and nature. 
+ Strengths: Powerful and pretty fast 
+ Weaknesses: Only really suitable for Windows 
+
+8. JavaScript
+JavaScript is an interpreted, multi-paradigm language.
+It has nothing whatsoever to do with Java.
+It is basically a language meant to script behaviors in web browsers.
+ Strengths: it's the only reliable way to do client-side web programming 
+ Weaknesses: it's only really useful in a web browser 
+
+9. Perl
+Perl is an interpreted, multi-paradigm language.
+Perl is perhaps still the best language for text processing and system administration scripting.
+ Strengths: text processing and system administration 
+ Weaknesses: strange syntax, and perhaps too many ways to do the same thing 
+
+10. Ruby
+Ruby is an interpreted, object-oriented language
+It is one of the most object-oriented languages in the world.
+Everything is an object in Ruby, even letters and numbers can have method calls.
+ Strengths: Perhaps the world's most object-oriented language 
+ Weaknesses: its superior object model comes at a price... namely speed 
